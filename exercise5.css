@@ -1,0 +1,21 @@
+body
+{
+	background-image: url("https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif");
+}
+a
+{
+	text-decoration: none;
+	font-family: arial;
+	color: white;
+	font-size: 24px;
+}
+a:hover
+{
+	color: gray;
+	font-size: 38px;
+}
+h1
+{
+	font-family: arial;
+	color: white;
+}
